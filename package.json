@@ -2,7 +2,7 @@
   "name": "jquery-hex2string",
   "version": "1.0.0",
   "description": "jQuery plugin for converting hex to string and string to hex",
-  "main": "index.js",
+  "main": "./dist/jq-hex2string.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,9 +10,16 @@
     "type": "git",
     "url": "git+https://github.com/angeal185/jquery-hex2string.git"
   },
-  "keywords": [],
+  "keywords": [
+    "jquery",
+    "plugin",
+    "hex",
+    "hexadecimal",
+    "string",
+    "jquery-plugin"
+  ],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/angeal185/jquery-hex2string/issues"
   },
