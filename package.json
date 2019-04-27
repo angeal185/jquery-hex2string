@@ -18,7 +18,7 @@
     "string",
     "jquery-plugin"
   ],
-  "author": "",
+  "author": "ben eaves",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/angeal185/jquery-hex2string/issues"
